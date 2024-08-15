@@ -1,8 +1,4 @@
-# Conquer 05 Bank
-
-## Descripción
-
-Este proyecto es una implementación de contrato inteligente de un sistema bancario simple utilizando Solidity y Hardhat. El proyecto incluye scripts de despliegue, pruebas y configuraciones para interactuar con la blockchain de Ethereum.
+# Counter
 
 ## Requisitos
 
@@ -16,7 +12,7 @@ Este proyecto es una implementación de contrato inteligente de un sistema banca
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/rolandolopez36/hardhat-conquer-05-bank.git
+   git clone https://github.com/rolandolopez36/hardhat-counter.git
    ```
 
 2. Navega al directorio del proyecto:
